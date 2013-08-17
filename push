@@ -1,0 +1,77 @@
+[33mcommit f572c57fcfd47f3f4685556d69c8f526a7633cb5[m
+Author: manas-git <manas.koni@gmail.com>
+Date:   Tue Aug 6 01:52:37 2013 +1000
+
+    Form explaining video attributes
+
+[33mcommit 7a994662216b679709443d6728a48ab42f8941a4[m
+Author: manas-git <manas.koni@gmail.com>
+Date:   Tue Aug 6 01:51:11 2013 +1000
+
+    All video attributes
+
+[33mcommit 9a7094672746a08447657308f6b8aab8a36121b3[m
+Author: manas-git <manas.koni@gmail.com>
+Date:   Tue Aug 6 01:50:31 2013 +1000
+
+    The Overdue table
+
+[33mcommit 19c03cd6070bbd125ff5e7e83f22706193c00e89[m
+Author: manas-git <manas.koni@gmail.com>
+Date:   Tue Aug 6 01:49:45 2013 +1000
+
+    The rental attributes
+
+[33mcommit 8ecdd352ff566bb80436ead8da112a17aea7b860[m
+Author: manas-git <manas.koni@gmail.com>
+Date:   Tue Aug 6 01:49:19 2013 +1000
+
+    All the rental functions
+
+[33mcommit 9c86ed3bb9d606f852beca91e798349fae2f2ce9[m
+Author: manas-git <manas.koni@gmail.com>
+Date:   Tue Aug 6 01:48:43 2013 +1000
+
+     The statistics printing code
+
+[33mcommit af37c990bfed710d5a67cff597be9d37790096aa[m
+Author: manas-git <manas.koni@gmail.com>
+Date:   Tue Aug 6 01:48:12 2013 +1000
+
+    The form containing all aspects
+
+[33mcommit 59ecb40ea670432cd2a1d771663faeb9f4b7c457[m
+Author: manas-git <manas.koni@gmail.com>
+Date:   Tue Aug 6 01:47:43 2013 +1000
+
+    Initializing the app
+
+[33mcommit 5649ecba8c32d37af620f74603a37083ce4c4b8e[m
+Author: manas-git <manas.koni@gmail.com>
+Date:   Tue Aug 6 01:46:52 2013 +1000
+
+    The Customer onclick form with applets
+
+[33mcommit 495ad0e4cd595f7ed53513d6f5ca0409b4f46e93[m
+Author: manas-git <manas.koni@gmail.com>
+Date:   Tue Aug 6 01:46:10 2013 +1000
+
+    Creating all Customerfunctions
+
+[33mcommit a3c62ca175bc063897536adedb91f1d670ce4aa5[m
+Author: manas-git <manas.koni@gmail.com>
+Date:   Tue Aug 6 01:45:09 2013 +1000
+
+    Creating the video attributes
+
+[33mcommit 8c4d44365f311a520c1da061720f0cc4bef0fb48[m
+Author: manas-git <manas.koni@gmail.com>
+Date:   Tue Aug 6 01:44:35 2013 +1000
+
+    Creating the Rental attributes
+
+[33mcommit 85379d3669334745da800da314b4bb85cd9ea0d6[m
+Author: manas-git <manas.koni@gmail.com>
+Date:   Tue Aug 6 01:43:41 2013 +1000
+
+    Creating the customer attributes
